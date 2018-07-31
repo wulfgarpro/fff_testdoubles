@@ -1,4 +1,2 @@
 # fff_testdoubles
-Basic fff playground
-
-Basic fff example, faking a transitive service.
+Basic fff playground faking a transitive service.
